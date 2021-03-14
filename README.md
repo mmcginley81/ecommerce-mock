@@ -16,3 +16,7 @@ Link to video - https://youtu.be/K9G7PxPKOT4
 # Dependencies
 MySql2, Sequelize, Dotenv, Express, NPM, Insomnia to check routes
 
+# Photo
+
+<img width="915" alt="Mock Ecommerce Store" src="https://user-images.githubusercontent.com/75404915/111086872-dcad9600-84db-11eb-8ae9-cd06755c4964.PNG">
+
